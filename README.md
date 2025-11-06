@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hey, I’m <span style="color:#00ffff;">xvdan</span></h1>
+<h1 align="center"> Hey, I’m <span style="color:#00ffff;">xvdan</span></h1>
 
 
 
-<h3 align="center">🚀 Software Engineer | Machine Learning Enthusiast | Full-Stack Builder</h3>
+<h3 align="center"> Software Engineer | Machine Learning Enthusiast | Full-Stack Builder</h3>
 
 <p align="center">
   <i>“Turning code into experiences — and ideas into systems.”</i>
