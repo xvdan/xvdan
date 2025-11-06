@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hey, I’m <span style="color:#00ffff;">xvdan</span></h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xvdan/xvdan/main/assets/xvdan-cyberpunk.png" width="200" alt="xvdan avatar"/>
-</p>
+
 
 <h3 align="center">🚀 Software Engineer | Machine Learning Enthusiast | Full-Stack Builder</h3>
 
